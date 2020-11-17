@@ -1,0 +1,15 @@
+C:\Users\Matt\source\repos\BugTracker\BugTracker\bin\Debug\BugTracker.exe.config
+C:\Users\Matt\source\repos\BugTracker\BugTracker\bin\Debug\BugTracker.exe
+C:\Users\Matt\source\repos\BugTracker\BugTracker\bin\Debug\BugTracker.pdb
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\MainWindow.g.cs
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\App.g.cs
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker_MarkupCompile.cache
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker_MarkupCompile.lref
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\MainWindow.baml
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.g.resources
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.Properties.Resources.resources
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.GenerateResource.cache
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.exe
+C:\Users\Matt\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.pdb
